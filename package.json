@@ -1,0 +1,23 @@
+{
+  "name": "soymomo",
+  "version": "1.0.0",
+  "description": "test prueba soy momo",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel serve index.html"
+  },
+  "keywords": [
+    "}"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "typescript": "^4.2.4"
+  },
+  "browserslist": [
+    "last 1 Chrome version"
+  ],
+  "devDependencies": {
+    "parcel": "^2.0.0-beta.2"
+  }
+}
